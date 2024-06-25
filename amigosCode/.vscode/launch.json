@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainTeste",
+            "request": "launch",
+            "mainClass": "com.spring.projetospring.MainTeste",
+            "projectName": "projetospring"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjetospringApplication<projetospring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.spring.projetospring.ProjetospringApplication",
+            "projectName": "projetospring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
